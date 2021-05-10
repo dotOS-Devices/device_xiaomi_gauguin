@@ -1,13 +1,14 @@
 [
  {
-   "repository" : "DtHnAme/vendor_xiaomi_gauguin",
+   "repository" : "dotOS-Devices/vendor_xiaomi_gauguin",
    "target_path": "vendor/xiaomi/gauguin",
-   "branch"     : "11.0"
+   "branch"     : "dot11",
+   "remote"     : "github"
  },
-
  {
    "repository" : "LineageOS/android_hardware_xiaomi",
    "target_path": "hardware/xiaomi",
-   "branch"     : "lineage-18.1"
+   "branch"     : "lineage-18.1",
+   "remote"     : "github"
  }
 ]
