@@ -196,13 +196,6 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.verified_boot.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/android.software.verified_boot.xml \
     frameworks/native/data/etc/handheld_core_hardware.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/handheld_core_hardware.xml
 
-# Power
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/power-libperfmgr/powerhint.json:$(TARGET_COPY_OUT_SYSTEM)/etc/powerhint.json
-
-PRODUCT_PACKAGES += \
-    android.hardware.power-service.xiaomi-libperfmgr
-
 # QTI VNDK Framework Detect
 PRODUCT_PACKAGES += \
     libvndfwk_detect_jni.qti \
