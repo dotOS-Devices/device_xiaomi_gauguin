@@ -116,8 +116,8 @@ void vendor_load_properties() {
         model = "M2007J17G";
         device = "gauguin";
         fingerprint =
-                "google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys";
-        description = "redfin-user 11 RQ2A.210505.003 7255357 release-keys";
+                "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys";
+        description = "redfin-user 11 RQ3A.211001.001 7641976 release-keys";
         brand = "Xiaomi";
         marketname = "Mi 10T Lite";
         mod_device = "M2007J17G";
@@ -125,8 +125,8 @@ void vendor_load_properties() {
         model = "M2007J17C";
         device = "gauguinpro";
         fingerprint =
-                "google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys";
-        description = "redfin-user 11 RQ2A.210505.003 7255357 release-keys";
+                "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys";
+        description = "redfin-user 11 RQ3A.211001.001 7641976 release-keys";
         brand = "Redmi";
         marketname = "Redmi Note 9 Pro";
         mod_device = "M2007J17C";
@@ -134,8 +134,8 @@ void vendor_load_properties() {
         model = "M2007J17I";
         device = "gauguininpro";
         fingerprint =
-                "google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys";
-        description = "redfin-user 11 RQ2A.210505.003 7255357 release-keys";
+                "google/redfin/redfin:11/RQ3A.211001.001/7641976:user/release-keys";
+        description = "redfin-user 11 RQ3A.211001.001 7641976 release-keys";
         brand = "Xiaomi";
         marketname = "Mi 10i";
         mod_device = "M2007J17I	";
